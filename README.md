@@ -1,2 +1,2 @@
 # .Net-DDD-Sample
-A example to do .net applications with Domain Driven Design Pattern.
+A .net application to do example with Domain Driven Design Pattern.
