@@ -18,14 +18,14 @@ namespace Domain.Services.Tests
         {
             Mock<IPeopleService> mockService = new Mock<IPeopleService>();
 
-            mockService.Setup(t => t.SelectById(1)).Returns(new People()
+            mockService.Setup(t => t.Single(1)).Returns(new People()
             {
                 Name = "Vinicius R. T",
                 Age = 21,
                 Id = 1
             });
 
-            People people = mockService.Object.SelectById(1);
+            People people = mockService.Object.Single(1);
 
             mockService.VerifyAll();
 

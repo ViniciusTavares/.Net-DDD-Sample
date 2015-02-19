@@ -1,4 +1,5 @@
-﻿using Domain.Services;
+﻿using Module1.Contracts;
+using Domain.Services;
 using Domain.Services.Contracts;
 using Infrastructure.Config;
 using Infrastructure.Interfaces;
@@ -8,6 +9,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Module1.Interfaces;
+using Infrastructure.EF_Config;
 
 namespace IoC
 {
@@ -22,6 +25,10 @@ namespace IoC
 
                 // Infrastructure
                 t.For(typeof(IHttpManager)).Use(typeof(HttpManager));
+                t.For(typeof(IUnitOfWork)).Use(typeof(UnitOfWork));
+
+                // Modules
+                t.For(typeof(IPeopleContract)).Use(typeof(PeopleContract)); 
             });
 
             return ObjectFactory.Container;

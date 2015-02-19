@@ -29,8 +29,7 @@ C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug\StructureMap.Web.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug\StructureMap.Web.pdb
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug\StructureMap.Web.xml
-C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
-C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
-C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug\Moq.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug\Moq.xml
+C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug\ApplicationModule1.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug\ApplicationModule1.pdb

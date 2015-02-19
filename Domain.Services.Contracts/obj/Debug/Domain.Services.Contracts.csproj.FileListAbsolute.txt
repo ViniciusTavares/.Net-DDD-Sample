@@ -5,3 +5,7 @@ C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Contracts\bin\D
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Contracts\obj\Debug\Domain.Services.Contracts.csprojResolveAssemblyReference.cache
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Contracts\obj\Debug\Domain.Services.Contracts.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Contracts\obj\Debug\Domain.Services.Contracts.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Contracts\bin\Debug\Infrastructure.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Contracts\bin\Debug\EntityFramework.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Contracts\bin\Debug\Infrastructure.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Contracts\bin\Debug\EntityFramework.xml

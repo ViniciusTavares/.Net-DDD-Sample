@@ -87,6 +87,10 @@
       <Project>{71c92238-8fcb-4686-a3a9-13a87f9d5d25}</Project>
       <Name>Domain</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Module1\Module1.csproj">
+      <Project>{05f8dce5-bcf3-4288-82bb-46d71c327329}</Project>
+      <Name>Module1 %284 - Modules\Module1\Module1%29</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

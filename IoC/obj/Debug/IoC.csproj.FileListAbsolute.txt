@@ -30,3 +30,5 @@ C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\EntityFramework.x
 C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\obj\Debug\IoC.csprojResolveAssemblyReference.cache
 C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\obj\Debug\IoC.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\obj\Debug\IoC.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\ApplicationModule1.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\ApplicationModule1.pdb

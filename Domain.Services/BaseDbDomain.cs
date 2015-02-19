@@ -14,176 +14,66 @@ using Microsoft.Practices.ServiceLocation;
 
 namespace Domain.Services
 {
-    public class BaseDbDomain<TEntity> : IDisposable, IBaseDbDomain<TEntity> where TEntity : BaseEntity, new()
+    public class BaseDbDomain<T> : IDisposable, IBaseDbDomain<T> where T : BaseEntity, new()
     {
-        protected ApplicationDbContext Context;
+        private readonly IUnitOfWork Uow;
+        internal DbSet<T> dbSet;
 
-        public BaseDbDomain(ApplicationDbContext context)
+        public BaseDbDomain(IUnitOfWork uow)
         {
-            Context = context;
+            this.Uow = uow;
+            this.dbSet = Uow.Context.Set<T>();
         }
 
-        public IEnumerable<TEntity> Select(Expression<Func<TEntity, bool>> where = null, IOrderByClause<TEntity>[] orderBy = null, int skip = 0, int top = 0, string[] include = null, bool readOnly = false)
+        public T Single(object primaryKey)
         {
-            try
-            {
-                IQueryable<TEntity> data = Context.Set<TEntity>();
 
-                if (readOnly)
-                {
-                    if (where != null)
-                    {
-                        data = data.Where(where).AsNoTracking();
-                    }
-                }
-                else
-                {
-                    if (where != null)
-                    {
-                        data = data.Where(where);
-                    }
-                }
-
-                if (orderBy != null)
-                {
-                    bool isFirstSort = true;
-
-                    orderBy.ToList().ForEach(one =>
-                    {
-                        data = one.ApplySort(data, isFirstSort);
-                        isFirstSort = false;
-                    });
-                }
-
-                if (skip > 0)
-                {
-                    data = data.Skip(skip);
-                }
-                if (top > 0)
-                {
-                    data = data.Take(top);
-                }
-
-                if (include != null)
-                {
-                    include.ToList().ForEach(one => data = data.Include(one));
-                }
-
-                foreach (TEntity item in data)
-                {
-                    yield return item;
-                }
-            }
-            finally
-            {
-            }
+            var dbResult = dbSet.Find(primaryKey);
+            return dbResult;
         }
 
-        public virtual TEntity SelectById(long Id)
+        public T SingleOrDefault(object primaryKey)
         {
-            try
-            {
-                return this.Context.Set<TEntity>().Find(Id);
-            }
-            finally { }
+            var dbResult = dbSet.Find(primaryKey);
+            return dbResult;
         }
 
-        public virtual TEntity Insert(TEntity item, bool saveImmediately = true)
+        public bool Exists(object primaryKey)
         {
-            try
-            {
-                DbSet<TEntity> set = Context.Set<TEntity>();
-
-                set.Add(item);
-
-                if (saveImmediately)
-                {
-                    Context.SaveChanges();
-                }
-
-                return item;
-            }
-            finally
-            {
-            }
+            return dbSet.Find(primaryKey) == null ? false : true;
         }
 
-        public virtual void AddOrUpdate(TEntity item, bool saveImmediately = true)
+        public virtual long Insert(T entity)
         {
-            var entry = Context.Entry(item);
-
-            if (entry != null)
-            {
-                entry.State = EntityState.Modified;
-            }
-            else
-            {
-                entry.State = EntityState.Added;
-            }
-
-            if (saveImmediately)
-            {
-                Context.SaveChanges();
-            }
+            dynamic obj = dbSet.Add(entity);
+            this.Uow.Context.SaveChanges();
+            return obj.Id;
         }
 
-        public virtual void Update(TEntity item, long? id, bool saveImmediately = true)
+        public virtual int Update(T entity)
         {
-            var t = Context.Set<TEntity>().Local.FirstOrDefault(x => x.Id == id);
-            if (t == null)
+            dbSet.Attach(entity);
+            Uow.Context.Entry(entity).State = EntityState.Modified;
+            return this.Uow.Context.SaveChanges();
+        }
+        public int Delete(T entity)
+        {
+            if (Uow.Context.Entry(entity).State == EntityState.Detached)
             {
-                t = Context.Set<TEntity>().Find(id);
+                dbSet.Attach(entity);
             }
-
-            Context.Entry(t).CurrentValues.SetValues(item);
-
-            if (saveImmediately)
-            {
-                Context.SaveChanges();
-            }
+            dynamic obj = dbSet.Remove(entity);
+            this.Uow.Context.SaveChanges();
+            return obj.Id;
         }
 
+        public IUnitOfWork UnitOfWork { get { return Uow; } }
 
-        public void Delete(TEntity item, bool saveImmediately = true)
+        internal DbContext Database { get { return Uow.Context; } }
+
+        public IEnumerable<T> GetAll()
         {
-            try
-            {
-                DbSet<TEntity> set = Context.Set<TEntity>();
-
-                DbEntityEntry<TEntity> entry = Context.Entry(item);
-
-                if (entry != null)
-                {
-                    entry.State = EntityState.Deleted;
-                }
-                else
-                {
-                    set.Attach(item);
-
-                    Context.Entry(item).State = EntityState.Deleted;
-                }
-
-                if (saveImmediately)
-                {
-                    Context.SaveChanges();
-                }
-            }
-            finally
-            {
-            }
-        }
-
-        public TEntity Attach(TEntity item)
-        {
-            DbSet<TEntity> set = Context.Set<TEntity>();
-            return set.Attach(item);
-        }
-
-        public void Save()
-        {
-            Context.SaveChanges();
-
-            ((IObjectContextAdapter)Context).ObjectContext.AcceptAllChanges();
+            return dbSet.AsEnumerable().ToList();
         }
 
         public void Dispose()
@@ -200,6 +90,7 @@ namespace Domain.Services
         {
             if (disposing)
             {
+                Uow.Dispose();
                 GC.SuppressFinalize(this);
             }
         }

@@ -42,6 +42,7 @@
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Transactions" />
     <Reference Include="System.Web" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -55,8 +56,8 @@
     <Compile Include="EF Config\EntitiesConfig.cs" />
     <Compile Include="EF Config\HttpManager.cs" />
     <Compile Include="EF Config\UnitOfWork.cs" />
-    <Compile Include="Interfaces\IHttpManager.cs" />
-    <Compile Include="Interfaces\IUnitOfWork.cs" />
+    <Compile Include="Contracts\IHttpManager.cs" />
+    <Compile Include="Contracts\IUnitOfWork.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

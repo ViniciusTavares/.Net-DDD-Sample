@@ -13,6 +13,6 @@ namespace Domain.Services
 {
     public class PeopleService : BaseDbDomain<People>, IPeopleService
     {
-        public PeopleService(IHttpManager manager) : base(manager.Context()){}
+        public PeopleService(IUnitOfWork uow) : base(uow) { }
     }
 }
