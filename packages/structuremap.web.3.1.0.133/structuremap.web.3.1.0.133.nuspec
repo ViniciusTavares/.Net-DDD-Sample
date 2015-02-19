@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>structuremap.web</id>
+    <version>3.1.0.133</version>
+    <authors>Jeremy Miller</authors>
+    <owners>Jeremy Miller</owners>
+    <licenseUrl>https://github.com/structuremap/structuremap/raw/master/LICENSE.TXT</licenseUrl>
+    <projectUrl>http://structuremap.github.io</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This is a package that provides support for Web-related lifecycles in StructureMap.</description>
+    <summary>StructureMap is a Dependency Injection / Inversion of Control tool for .Net</summary>
+    <language>en-US</language>
+    <dependencies>
+      <dependency id="StructureMap" version="3.0.0" />
+    </dependencies>
+  </metadata>
+</package>

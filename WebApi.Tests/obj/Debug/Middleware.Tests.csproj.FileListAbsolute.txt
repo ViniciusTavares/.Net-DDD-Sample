@@ -1,0 +1,5 @@
+C:\Projetos_Pessoais\Domain Driven Design Sample\WebApi.Tests\bin\Debug\Middleware.Tests.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\WebApi.Tests\bin\Debug\Middleware.Tests.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\WebApi.Tests\obj\Debug\Middleware.Tests.csprojResolveAssemblyReference.cache
+C:\Projetos_Pessoais\Domain Driven Design Sample\WebApi.Tests\obj\Debug\Middleware.Tests.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\WebApi.Tests\obj\Debug\Middleware.Tests.pdb

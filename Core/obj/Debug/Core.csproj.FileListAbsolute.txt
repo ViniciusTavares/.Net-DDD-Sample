@@ -1,0 +1,4 @@
+C:\Projetos_Pessoais\Domain Driven Design Sample\Core\bin\Debug\Core.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Core\bin\Debug\Core.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Core\obj\Debug\Core.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Core\obj\Debug\Core.pdb

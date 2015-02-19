@@ -1,0 +1,4 @@
+C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.IoC\bin\Debug\Infrastructure.IoC.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.IoC\bin\Debug\Infrastructure.IoC.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.IoC\obj\Debug\Infrastructure.IoC.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.IoC\obj\Debug\Infrastructure.IoC.pdb
