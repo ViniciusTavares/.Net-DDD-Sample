@@ -49,7 +49,7 @@
       <Project>{cf83eff9-2fbe-4e14-a51e-e59bad25df4b}</Project>
       <Name>Domain.Services</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Models\Domain.csproj">
+    <ProjectReference Include="..\Domain\Domain.csproj">
       <Project>{71c92238-8fcb-4686-a3a9-13a87f9d5d25}</Project>
       <Name>Domain</Name>
     </ProjectReference>

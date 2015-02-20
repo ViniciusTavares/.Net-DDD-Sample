@@ -4,11 +4,9 @@ C:\Projetos_Pessoais\Domain Driven Design Sample\Module1\obj\Debug\ApplicationMo
 C:\Projetos_Pessoais\Domain Driven Design Sample\Module1\bin\Debug\ApplicationModule1.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Module1\bin\Debug\ApplicationModule1.pdb
 C:\Projetos_Pessoais\Domain Driven Design Sample\Module1\bin\Debug\Domain.dll
-C:\Projetos_Pessoais\Domain Driven Design Sample\Module1\bin\Debug\Domain.Services.Contracts.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Module1\bin\Debug\Domain.Services.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Module1\bin\Debug\Infrastructure.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Module1\bin\Debug\EntityFramework.dll
-C:\Projetos_Pessoais\Domain Driven Design Sample\Module1\bin\Debug\Domain.Services.Contracts.pdb
 C:\Projetos_Pessoais\Domain Driven Design Sample\Module1\bin\Debug\Domain.Services.pdb
 C:\Projetos_Pessoais\Domain Driven Design Sample\Module1\bin\Debug\Domain.pdb
 C:\Projetos_Pessoais\Domain Driven Design Sample\Module1\bin\Debug\Infrastructure.pdb

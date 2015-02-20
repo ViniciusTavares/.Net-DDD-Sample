@@ -64,7 +64,7 @@
       <Project>{8997f78c-b299-4294-8386-68f550f9332d}</Project>
       <Name>Core</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Models\Domain.csproj">
+    <ProjectReference Include="..\Domain\Domain.csproj">
       <Project>{71c92238-8fcb-4686-a3a9-13a87f9d5d25}</Project>
       <Name>Domain</Name>
     </ProjectReference>
