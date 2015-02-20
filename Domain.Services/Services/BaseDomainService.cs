@@ -26,7 +26,6 @@ namespace Domain.Services
 
         public T Single(object primaryKey)
         {
-
             var dbResult = dbSet.Find(primaryKey);
             return dbResult;
         }

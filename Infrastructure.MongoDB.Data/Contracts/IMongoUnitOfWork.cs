@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Infrastructure.MongoDB.Data.Contracts
 {
-    interface IMongoUnitOfWork
+    public interface IMongoUnitOfWork
     {
         MongoDatabase Context { get; }
         void RequestDone();
