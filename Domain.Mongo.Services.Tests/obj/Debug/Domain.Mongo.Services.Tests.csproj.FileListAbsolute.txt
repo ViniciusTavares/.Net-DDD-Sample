@@ -1,5 +1,0 @@
-C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Mongo.Services.Tests\bin\Debug\Domain.Mongo.Services.Tests.dll
-C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Mongo.Services.Tests\bin\Debug\Domain.Mongo.Services.Tests.pdb
-C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Mongo.Services.Tests\obj\Debug\Domain.Mongo.Services.Tests.csprojResolveAssemblyReference.cache
-C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Mongo.Services.Tests\obj\Debug\Domain.Mongo.Services.Tests.dll
-C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Mongo.Services.Tests\obj\Debug\Domain.Mongo.Services.Tests.pdb

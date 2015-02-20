@@ -10,10 +10,3 @@ C:\Projetos_Pessoais\Domain Driven Design Sample\Domain\bin\Debug\Domain.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain\bin\Debug\Domain.pdb
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain\obj\Debug\Domain.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain\obj\Debug\Domain.pdb
-C:\Projetos_Pessoais\Domain Driven Design Sample\Domain\bin\Debug\Core.dll
-C:\Projetos_Pessoais\Domain Driven Design Sample\Domain\bin\Debug\MongoDB.Bson.dll
-C:\Projetos_Pessoais\Domain Driven Design Sample\Domain\bin\Debug\Core.pdb
-C:\Projetos_Pessoais\Domain Driven Design Sample\Domain\bin\Debug\MongoDB.Bson.xml
-C:\Projetos_Pessoais\Domain Driven Design Sample\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
-C:\Projetos_Pessoais\Domain Driven Design Sample\Domain\bin\Debug\MongoDB.Driver.dll
-C:\Projetos_Pessoais\Domain Driven Design Sample\Domain\bin\Debug\MongoDB.Driver.xml

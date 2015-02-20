@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Infrastructure.Mapping
+namespace Infrastructure.EF.Data.Mapping
 {
     public class PeopleConfig : EntityTypeConfiguration<People>
     {

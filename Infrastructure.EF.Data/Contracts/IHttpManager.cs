@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Infrastructure.Interfaces
+namespace Infrastructure.EF.Data.Interfaces
 {
     public interface IHttpManager
     {

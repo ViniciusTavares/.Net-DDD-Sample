@@ -8,13 +8,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Module1.Interfaces;
-using Infrastructure.Interfaces;
+using Infrastructure.EF.Data.Interfaces;
 using Infrastructure.Config;
 using Infrastructure.EF_Config;
-using Infrastructure.MongoDB.Data.Contracts;
-using Infrastructure.MongoDB.Data.Config;
-using Domain.Mongo.Services.Contracts;
-using Domain.Mongo.Services.Services;
 
 namespace Infrastructure.CrossCutting
 {
@@ -24,13 +20,12 @@ namespace Infrastructure.CrossCutting
         {
             ObjectFactory.Initialize(t =>
             {
-                // Infrastructure
-                t.For(typeof(IUnitOfWork)).Use(typeof(EFUnitOfWork));
-                t.For(typeof(IMongoUnitOfWork)).Use(typeof(MongoUnitOfWork));
-
                 // Domain.Services
                 t.For(typeof(IPeopleService)).Use(typeof(PeopleService));
-                t.For(typeof(IMongoPeopleService)).Use(typeof(MongoPeopleService)); 
+
+                // Infrastructure
+                t.For(typeof(IHttpManager)).Use(typeof(HttpManager));
+                t.For(typeof(IUnitOfWork)).Use(typeof(UnitOfWork));
 
                 // Modules
                 t.For(typeof(IPeopleContract)).Use(typeof(PeopleContract)); 

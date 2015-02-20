@@ -119,7 +119,6 @@ C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\CrossCutting.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\Domain.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\EntityFramework.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\EntityFramework.SqlServer.dll
-C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\Infrastructure.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\Microsoft.Web.Infrastructure.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\Newtonsoft.Json.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\StructureMap.dll
@@ -140,7 +139,6 @@ C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\WebGrease.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\Domain.Services.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\Domain.pdb
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\CrossCutting.pdb
-C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\Infrastructure.pdb
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\ApplicationModule1.pdb
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\EntityFramework.xml
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\EntityFramework.SqlServer.xml
@@ -161,11 +159,5 @@ C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\System.Web.WebPa
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\System.Web.WebPages.Razor.xml
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\Antlr3.Runtime.pdb
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\Domain.Services.pdb
-C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\Domain.Mongo.Services.dll
-C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\MongoDB.Driver.dll
-C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\Infrastructure.MongoDB.Data.dll
-C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\MongoDB.Bson.dll
-C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\Domain.Mongo.Services.pdb
-C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\MongoDB.Driver.xml
-C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\Infrastructure.MongoDB.Data.pdb
-C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\MongoDB.Bson.xml
+C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\Infrastructure.EF.Data.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\Infrastructure.EF.Data.pdb

@@ -1,5 +1,4 @@
-﻿using MongoDB.Bson;
-using System;
+﻿using System;
 namespace Module1.Interfaces
 {
     public interface IPeopleContract

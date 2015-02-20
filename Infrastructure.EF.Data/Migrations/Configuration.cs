@@ -1,4 +1,4 @@
-namespace Infrastructure.Migrations
+namespace Infrastructure.EF.Data.Migrations
 {
     using Domain.Models;
     using System;

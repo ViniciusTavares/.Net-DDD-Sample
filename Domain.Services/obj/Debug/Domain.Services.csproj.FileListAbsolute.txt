@@ -4,9 +4,7 @@ C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services\bin\Debug\Domai
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services\bin\Debug\Domain.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services\bin\Debug\EntityFramework.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services\bin\Debug\EntityFramework.SqlServer.dll
-C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services\bin\Debug\Infrastructure.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
-C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services\bin\Debug\Infrastructure.pdb
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services\bin\Debug\Domain.pdb
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services\bin\Debug\EntityFramework.xml
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services\bin\Debug\EntityFramework.SqlServer.xml
@@ -32,5 +30,5 @@ C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Domain.Services\bin\Debu
 C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Domain.Services\obj\Debug\Domain.Services.csprojResolveAssemblyReference.cache
 C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Domain.Services\obj\Debug\Domain.Services.dll
 C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Domain.Services\obj\Debug\Domain.Services.pdb
-C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services\bin\Debug\MongoDB.Bson.dll
-C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services\bin\Debug\MongoDB.Bson.xml
+C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services\bin\Debug\Infrastructure.EF.Data.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services\bin\Debug\Infrastructure.EF.Data.pdb

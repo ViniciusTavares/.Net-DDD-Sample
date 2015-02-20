@@ -8,7 +8,6 @@ using Domain;
 using Domain.Models;
 using Middleware.Interfaces;
 using Module1.Interfaces;
-using MongoDB.Bson;
 
 namespace Middleware.Controllers
 {
@@ -33,9 +32,9 @@ namespace Middleware.Controllers
             }
             else
             {
-                //People people = new People() { Id = id };
+                People people = new People() { Id = id };
 
-                //Contract.Delete(people); 
+                Contract.Delete(people); 
 
                 return Request.CreateResponse(HttpStatusCode.OK);
             }

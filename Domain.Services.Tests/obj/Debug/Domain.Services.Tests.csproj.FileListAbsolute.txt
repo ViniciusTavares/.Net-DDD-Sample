@@ -2,11 +2,9 @@ C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug\Domain.Services.Tests.pdb
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug\Domain.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug\Domain.Services.dll
-C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug\Infrastructure.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug\EntityFramework.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug\Domain.Services.pdb
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug\Domain.pdb
-C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug\Infrastructure.pdb
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug\EntityFramework.xml
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\obj\Debug\Domain.Services.Tests.csprojResolveAssemblyReference.cache
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\obj\Debug\Domain.Services.Tests.dll
@@ -44,7 +42,5 @@ C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Domain.Services.Tests\bi
 C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Domain.Services.Tests\obj\Debug\Domain.Services.Tests.csprojResolveAssemblyReference.cache
 C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Domain.Services.Tests\obj\Debug\Domain.Services.Tests.dll
 C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Domain.Services.Tests\obj\Debug\Domain.Services.Tests.pdb
-C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug\MongoDB.Bson.dll
-C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug\MongoDB.Driver.dll
-C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug\MongoDB.Bson.xml
-C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug\MongoDB.Driver.xml
+C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug\Infrastructure.EF.Data.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug\Infrastructure.EF.Data.pdb

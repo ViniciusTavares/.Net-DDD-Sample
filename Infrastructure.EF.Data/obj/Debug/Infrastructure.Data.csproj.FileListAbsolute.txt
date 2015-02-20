@@ -28,5 +28,3 @@ C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.EF.Data\bin\Debu
 C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.EF.Data\obj\Debug\Infrastructure.Data.csprojResolveAssemblyReference.cache
 C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.EF.Data\obj\Debug\Infrastructure.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.EF.Data\obj\Debug\Infrastructure.pdb
-C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.EF.Data\bin\Debug\MongoDB.Bson.dll
-C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.EF.Data\bin\Debug\MongoDB.Bson.xml

@@ -2,7 +2,7 @@
 using Domain.Models;
 using Domain.Services.Contracts;
 using Infrastructure.Config;
-using Infrastructure.Interfaces;
+using Infrastructure.EF.Data.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
