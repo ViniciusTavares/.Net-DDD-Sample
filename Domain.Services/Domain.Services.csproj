@@ -65,7 +65,7 @@
     </ProjectReference>
     <ProjectReference Include="..\Infrastructure.EF.Data\Infrastructure.Data.csproj">
       <Project>{5a4fbc15-a691-4a21-b6a8-d5bd0f3338fb}</Project>
-      <Name>Infrastructure.EF.Data</Name>
+      <Name>Infrastructure.Data</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
