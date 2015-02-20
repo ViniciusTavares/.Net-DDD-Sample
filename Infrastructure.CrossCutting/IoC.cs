@@ -25,7 +25,7 @@ namespace Infrastructure.CrossCutting
 
                 // Infrastructure
                 t.For(typeof(IHttpManager)).Use(typeof(HttpManager));
-                t.For(typeof(IUnitOfWork)).Use(typeof(UnitOfWork));
+                t.For(typeof(IUnitOfWork)).Use(typeof(EFUnitOfWork));
 
                 // Modules
                 t.For(typeof(IPeopleContract)).Use(typeof(PeopleContract)); 

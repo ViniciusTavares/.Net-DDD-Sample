@@ -10,12 +10,12 @@ using System.Transactions;
 
 namespace Infrastructure.EF_Config
 {
-    public class UnitOfWork : IUnitOfWork
+    public class EFUnitOfWork : IUnitOfWork
     {
         private TransactionScope Transaction;
         private readonly ApplicationDbContext DbContext;
 
-        public UnitOfWork(ApplicationDbContext context)
+        public EFUnitOfWork(ApplicationDbContext context)
         {
             this.DbContext = context;
         }
