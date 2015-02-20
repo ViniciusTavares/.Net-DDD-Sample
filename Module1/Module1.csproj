@@ -45,6 +45,10 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <ProjectReference Include="..\Domain.Mongo.Services\Domain.Mongo.Services.csproj">
+      <Project>{e46f9df4-3ee6-40b0-83fa-d139e324f819}</Project>
+      <Name>Domain.Mongo.Services</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Domain.Services\Domain.Services.csproj">
       <Project>{cf83eff9-2fbe-4e14-a51e-e59bad25df4b}</Project>
       <Name>Domain.Services</Name>

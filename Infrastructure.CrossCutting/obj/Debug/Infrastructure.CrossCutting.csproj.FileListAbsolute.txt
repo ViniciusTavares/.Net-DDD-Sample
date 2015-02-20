@@ -62,3 +62,11 @@ C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.CrossCutting\bin
 C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.CrossCutting\bin\Debug\System.Net.Http.Formatting.xml
 C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.CrossCutting\bin\Debug\System.Web.Http.xml
 C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.CrossCutting\bin\Debug\EntityFramework.xml
+C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.CrossCutting\bin\Debug\Domain.Mongo.Services.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.CrossCutting\bin\Debug\MongoDB.Driver.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.CrossCutting\bin\Debug\Infrastructure.MongoDB.Data.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.CrossCutting\bin\Debug\MongoDB.Bson.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.CrossCutting\bin\Debug\Domain.Mongo.Services.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.CrossCutting\bin\Debug\MongoDB.Driver.xml
+C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.CrossCutting\bin\Debug\Infrastructure.MongoDB.Data.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.CrossCutting\bin\Debug\MongoDB.Bson.xml

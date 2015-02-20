@@ -24,3 +24,11 @@ C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Module1\bin\Debug\Entity
 C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Module1\obj\Debug\Module1.csprojResolveAssemblyReference.cache
 C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Module1\obj\Debug\ApplicationModule1.dll
 C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Module1\obj\Debug\ApplicationModule1.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Module1\bin\Debug\Domain.Mongo.Services.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Module1\bin\Debug\MongoDB.Driver.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Module1\bin\Debug\Infrastructure.MongoDB.Data.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Module1\bin\Debug\MongoDB.Bson.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Module1\bin\Debug\Domain.Mongo.Services.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Module1\bin\Debug\MongoDB.Driver.xml
+C:\Projetos_Pessoais\Domain Driven Design Sample\Module1\bin\Debug\Infrastructure.MongoDB.Data.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Module1\bin\Debug\MongoDB.Bson.xml

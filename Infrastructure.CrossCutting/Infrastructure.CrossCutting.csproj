@@ -73,6 +73,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Domain.Mongo.Services\Domain.Mongo.Services.csproj">
+      <Project>{e46f9df4-3ee6-40b0-83fa-d139e324f819}</Project>
+      <Name>Domain.Mongo.Services</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Domain.Services\Domain.Services.csproj">
       <Project>{cf83eff9-2fbe-4e14-a51e-e59bad25df4b}</Project>
       <Name>Domain.Services</Name>
@@ -84,6 +88,10 @@
     <ProjectReference Include="..\Infrastructure.EF.Data\Infrastructure.Data.csproj">
       <Project>{5a4fbc15-a691-4a21-b6a8-d5bd0f3338fb}</Project>
       <Name>Infrastructure.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Infrastructure.MongoDB.Data\Infrastructure.MongoDB.Data.csproj">
+      <Project>{5759b943-6f08-4869-b9da-c4b07d4c9a45}</Project>
+      <Name>Infrastructure.MongoDB.Data</Name>
     </ProjectReference>
     <ProjectReference Include="..\Module1\Module1.csproj">
       <Project>{05f8dce5-bcf3-4288-82bb-46d71c327329}</Project>
