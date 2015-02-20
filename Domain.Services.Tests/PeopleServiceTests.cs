@@ -3,6 +3,7 @@ using Domain.Enums;
 using Domain.Models;
 using Domain.Services.Contracts;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using MongoDB.Bson;
 using Moq;
 using StructureMap;
 
@@ -20,7 +21,7 @@ namespace Domain.Services.Tests
             {
                 Name = "Vinicius R. T",
                 Age = 21,
-                Id = 1
+                Id = new ObjectId("199")
             });
 
             People people = mockService.Object.Single(1);

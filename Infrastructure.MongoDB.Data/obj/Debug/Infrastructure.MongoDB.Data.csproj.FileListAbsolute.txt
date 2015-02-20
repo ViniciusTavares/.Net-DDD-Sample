@@ -8,3 +8,5 @@ C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.MongoDB.Data\obj
 C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.MongoDB.Data\obj\Debug\Infrastructure.MongoDB.Data.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.MongoDB.Data\obj\Debug\Infrastructure.MongoDB.Data.pdb
 C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.MongoDB.Data\bin\Debug\Infrastructure.MongoDB.Data.dll.config
+C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.MongoDB.Data\bin\Debug\Core.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.MongoDB.Data\bin\Debug\Core.pdb

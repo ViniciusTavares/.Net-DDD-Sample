@@ -23,7 +23,7 @@ namespace Infrastructure.MongoDB.Data.Config
 
         public MongoUnitOfWork()
         {
-            MongoUrl url = new MongoUrl("");
+            MongoUrl url = new MongoUrl("mongodb://localhost/vinicius_db");
             MongoClient client = new MongoClient(url);
             Server = client.GetServer();
             MongoDatabase = Server.GetDatabase(url.DatabaseName);

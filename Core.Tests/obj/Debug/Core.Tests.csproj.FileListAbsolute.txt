@@ -26,3 +26,5 @@ C:\Projetos_Pessoais\Domain Driven Design Sample\Core.Tests\bin\Debug\EntityFram
 C:\Projetos_Pessoais\Domain Driven Design Sample\Core.Tests\bin\Debug\Domain.Services.pdb
 C:\Projetos_Pessoais\Domain Driven Design Sample\Core.Tests\bin\Debug\Infrastructure.pdb
 C:\Projetos_Pessoais\Domain Driven Design Sample\Core.Tests\bin\Debug\EntityFramework.xml
+C:\Projetos_Pessoais\Domain Driven Design Sample\Core.Tests\bin\Debug\MongoDB.Bson.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Core.Tests\bin\Debug\MongoDB.Bson.xml

@@ -11,3 +11,5 @@ C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Mongo.Services\bin\Debug
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Mongo.Services\bin\Debug\MongoDB.Driver.xml
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Mongo.Services\obj\Debug\Domain.Mongo.Services.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Mongo.Services\obj\Debug\Domain.Mongo.Services.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Mongo.Services\bin\Debug\Core.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Mongo.Services\bin\Debug\Core.pdb

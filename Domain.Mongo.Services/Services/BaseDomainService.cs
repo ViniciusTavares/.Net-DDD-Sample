@@ -8,23 +8,27 @@ using System.Threading.Tasks;
 using MongoDB.Driver.Builders;
 using Infrastructure.MongoDB.Data.Contracts;
 using MongoDB.Driver;
+using Core;
+using MongoDB.Bson;
 
 namespace Domain.Mongo.Services.Services
 {
     public class BaseDomainService<T> : IDisposable, IBaseDomainService<T> where T : BaseEntity, new()
     {
-        private readonly MongoCollection<T> Collection;
+        private readonly MongoCollection Collection;
         IMongoUnitOfWork Uow; 
 
         public BaseDomainService(IMongoUnitOfWork uow)
         {
             string collectionName = typeof(T).ToString();
-            this.Collection = Uow.Context.GetCollection<T>(collectionName + "s");
+            Uow = uow; 
+            this.Collection = Uow.Context.GetCollection("Peoples");
         }
 
         public T Single(object id)
         {
-            return Collection.FindOneByIdAs<T>(id.ToString());
+            return Collection.FindOneAs<T>(Query.EQ("Name", "Vinicius")); 
+            //return Collection.FindOneByIdAs<T>(id.ToString());
         }
 
         public IEnumerable<T> GetAll()
@@ -34,7 +38,7 @@ namespace Domain.Mongo.Services.Services
 
         public IEnumerable<T> Get(IMongoQuery query)
         {
-            return Collection.Find(query);
+            return Collection.FindAs<T>(query);
         }
 
         public bool Exists(object id)

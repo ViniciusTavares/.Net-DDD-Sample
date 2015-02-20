@@ -2,6 +2,7 @@
 using Domain.Mongo.Services.Contracts;
 using Domain.Services.Contracts;
 using Module1.Interfaces;
+using MongoDB.Bson;
 using System;
 using System.Collections.Generic;
 using System.Linq;

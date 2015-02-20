@@ -44,3 +44,7 @@ C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Domain.Services.Tests\bi
 C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Domain.Services.Tests\obj\Debug\Domain.Services.Tests.csprojResolveAssemblyReference.cache
 C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Domain.Services.Tests\obj\Debug\Domain.Services.Tests.dll
 C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Domain.Services.Tests\obj\Debug\Domain.Services.Tests.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug\MongoDB.Bson.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug\MongoDB.Driver.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug\MongoDB.Bson.xml
+C:\Projetos_Pessoais\Domain Driven Design Sample\Domain.Services.Tests\bin\Debug\MongoDB.Driver.xml
