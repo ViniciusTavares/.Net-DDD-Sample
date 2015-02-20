@@ -6,7 +6,6 @@ using System.Net.Http;
 using System.Web.Http;
 using Domain;
 using Domain.Models;
-using Domain.Services.Contracts;
 using Middleware.Interfaces;
 using Module1.Interfaces;
 
@@ -29,7 +28,7 @@ namespace Middleware.Controllers
             {
                 var people = Contract.SelectById(id); 
 
-                return Request.CreateResponse(HttpStatusCode.OK);
+                return Request.CreateResponse(HttpStatusCode.OK, people);
             }
             else
             {

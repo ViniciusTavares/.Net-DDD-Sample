@@ -170,6 +170,7 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\SampleDirection.cs" />
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
+    <Compile Include="Contracts\IPeopleController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\PeopleController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
@@ -230,17 +231,9 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Domain.Services.Contracts\Domain.Services.Contracts.csproj">
-      <Project>{b64b4ea0-2298-4d4a-bf09-dd3930457a58}</Project>
-      <Name>Domain.Services.Contracts</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\IoC\IoC.csproj">
+    <ProjectReference Include="..\..\..\..\..\..\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.CrossCutting\Intrastructure.CrossCuting.csproj">
       <Project>{e4ebb195-1ece-4689-ba31-b0c05b27e530}</Project>
-      <Name>IoC</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Middleware.Contracts\Middleware.Contracts.csproj">
-      <Project>{eafe5599-8555-4533-8b1a-10b31af6c7db}</Project>
-      <Name>Middleware.Contracts</Name>
+      <Name>Intrastructure.CrossCuting %281 - Infrastructure\Intrastructure.CrossCuting\Intrastructure.CrossCuting%29</Name>
     </ProjectReference>
     <ProjectReference Include="..\Models\Domain.csproj">
       <Project>{71c92238-8fcb-4686-a3a9-13a87f9d5d25}</Project>
@@ -248,7 +241,7 @@
     </ProjectReference>
     <ProjectReference Include="..\Module1\Module1.csproj">
       <Project>{05f8dce5-bcf3-4288-82bb-46d71c327329}</Project>
-      <Name>Module1 %284 - Modules\Module1\Module1%29</Name>
+      <Name>Module1</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

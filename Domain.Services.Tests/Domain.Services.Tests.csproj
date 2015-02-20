@@ -66,23 +66,11 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Domain.Services.Contracts\Domain.Services.Contracts.csproj">
-      <Project>{b64b4ea0-2298-4d4a-bf09-dd3930457a58}</Project>
-      <Name>Domain.Services.Contracts</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Domain.Services\Domain.Services.csproj">
       <Project>{cf83eff9-2fbe-4e14-a51e-e59bad25df4b}</Project>
       <Name>Domain.Services</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Infrastructure\Infrastructure.csproj">
-      <Project>{5a4fbc15-a691-4a21-b6a8-d5bd0f3338fb}</Project>
-      <Name>Infrastructure</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\IoC\IoC.csproj">
-      <Project>{e4ebb195-1ece-4689-ba31-b0c05b27e530}</Project>
-      <Name>IoC</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Models\Domain.csproj">
+    <ProjectReference Include="..\Domain\Domain.csproj">
       <Project>{71c92238-8fcb-4686-a3a9-13a87f9d5d25}</Project>
       <Name>Domain</Name>
     </ProjectReference>

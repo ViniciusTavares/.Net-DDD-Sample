@@ -15,9 +15,9 @@ namespace Core.Tests
         [TestMethod]
         public void EnumDescriptionTest()
         {
-            string Description = PeopleType.Administrator.Description();
+            string Description = PeopleType.LegalPerson.Description();
 
-            Assert.IsTrue(Description == "Admin");
+            Assert.IsTrue(Description == "LegalPerson");
         }
     }
 }

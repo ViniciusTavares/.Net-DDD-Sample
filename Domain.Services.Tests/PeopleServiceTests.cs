@@ -2,8 +2,6 @@
 using Domain.Enums;
 using Domain.Models;
 using Domain.Services.Contracts;
-using Infrastructure.Config;
-using Infrastructure.Interfaces;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 using StructureMap;

@@ -9,3 +9,14 @@ C:\Projetos_Pessoais\Domain Driven Design Sample\Core.Tests\bin\Debug\Core.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Core.Tests\bin\Debug\Domain.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Core.Tests\bin\Debug\Core.pdb
 C:\Projetos_Pessoais\Domain Driven Design Sample\Core.Tests\bin\Debug\Domain.pdb
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Core.Tests\bin\Debug\Core.Tests.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Core.Tests\bin\Debug\Core.Tests.pdb
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Core.Tests\bin\Debug\Core.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Core.Tests\bin\Debug\Domain.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Core.Tests\bin\Debug\Moq.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Core.Tests\bin\Debug\Core.pdb
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Core.Tests\bin\Debug\Domain.pdb
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Core.Tests\bin\Debug\Moq.xml
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Core.Tests\obj\Debug\Core.Tests.csprojResolveAssemblyReference.cache
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Core.Tests\obj\Debug\Core.Tests.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Core.Tests\obj\Debug\Core.Tests.pdb

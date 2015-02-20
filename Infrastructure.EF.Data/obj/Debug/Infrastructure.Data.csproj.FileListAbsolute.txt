@@ -1,0 +1,30 @@
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Infrastructure\obj\Debug\Infrastructure.Data.csprojResolveAssemblyReference.cache
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Infrastructure\bin\Debug\Infrastructure.dll.config
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Infrastructure\bin\Debug\Domain.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Infrastructure\bin\Debug\Domain.pdb
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Infrastructure\obj\Debug\Infrastructure.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.EF.Data\bin\Debug\Infrastructure.dll.config
+C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.EF.Data\bin\Debug\Infrastructure.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.EF.Data\bin\Debug\Infrastructure.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.EF.Data\bin\Debug\Domain.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.EF.Data\bin\Debug\EntityFramework.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.EF.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.EF.Data\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.EF.Data\bin\Debug\Domain.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.EF.Data\bin\Debug\EntityFramework.xml
+C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.EF.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.EF.Data\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.EF.Data\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.EF.Data\obj\Debug\Infrastructure.Data.csprojResolveAssemblyReference.cache
+C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.EF.Data\obj\Debug\Infrastructure.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.EF.Data\obj\Debug\Infrastructure.pdb

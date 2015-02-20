@@ -1,0 +1,68 @@
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\IoC.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\IoC.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\Domain.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\Domain.Services.Contracts.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\Domain.Services.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\Infrastructure.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\StructureMap.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\StructureMap.Net4.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\StructureMap.Web.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\System.Net.Http.Formatting.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\System.Web.Http.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\EntityFramework.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\Domain.Services.Contracts.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\Domain.Services.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\Infrastructure.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\Domain.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\Newtonsoft.Json.xml
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\StructureMap.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\StructureMap.xml
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\StructureMap.Net4.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\StructureMap.Web.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\StructureMap.Web.xml
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\System.Net.Http.Formatting.xml
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\System.Web.Http.xml
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\EntityFramework.xml
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\obj\Debug\IoC.csprojResolveAssemblyReference.cache
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\obj\Debug\IoC.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\obj\Debug\IoC.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\ApplicationModule1.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\IoC\bin\Debug\ApplicationModule1.pdb
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\IoC.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\IoC.pdb
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\ApplicationModule1.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\Domain.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\Domain.Services.Contracts.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\Domain.Services.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\Infrastructure.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\StructureMap.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\StructureMap.Net4.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\StructureMap.Web.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\System.Web.Http.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\EntityFramework.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\Domain.Services.Contracts.pdb
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\Domain.Services.pdb
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\Infrastructure.pdb
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\Domain.pdb
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\ApplicationModule1.pdb
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\StructureMap.pdb
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\StructureMap.xml
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\StructureMap.Net4.pdb
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\StructureMap.Web.pdb
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\StructureMap.Web.xml
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\System.Web.Http.xml
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\bin\Debug\EntityFramework.xml
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\obj\Debug\IoC.csprojResolveAssemblyReference.cache
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\obj\Debug\IoC.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\IoC\obj\Debug\IoC.pdb

@@ -45,10 +45,6 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <ProjectReference Include="..\Domain.Services.Contracts\Domain.Services.Contracts.csproj">
-      <Project>{b64b4ea0-2298-4d4a-bf09-dd3930457a58}</Project>
-      <Name>Domain.Services.Contracts</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Domain.Services\Domain.Services.csproj">
       <Project>{cf83eff9-2fbe-4e14-a51e-e59bad25df4b}</Project>
       <Name>Domain.Services</Name>

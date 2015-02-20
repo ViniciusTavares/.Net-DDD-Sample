@@ -1,4 +1,0 @@
-C:\Projetos_Pessoais\Domain Driven Design Sample\Models\bin\Debug\Domain.dll
-C:\Projetos_Pessoais\Domain Driven Design Sample\Models\bin\Debug\Domain.pdb
-C:\Projetos_Pessoais\Domain Driven Design Sample\Models\obj\Debug\Domain.dll
-C:\Projetos_Pessoais\Domain Driven Design Sample\Models\obj\Debug\Domain.pdb

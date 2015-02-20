@@ -1,4 +1,5 @@
-﻿using IoC;
+﻿
+using Intrastructure.CrossCuting;
 using StructureMap;
 using System;
 using System.Collections.Generic;
@@ -15,7 +16,7 @@ namespace Middleware
     {
         protected void Application_Start()
         {
-            IContainer container = IoC.IoC.Initialize();
+            IContainer container = IoC.Initialize();
 
             AreaRegistration.RegisterAllAreas();
             GlobalConfiguration.Configure(WebApiConfig.Register);

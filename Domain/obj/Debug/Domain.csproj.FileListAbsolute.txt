@@ -1,0 +1,12 @@
+C:\Projetos_Pessoais\Domain Driven Design Sample\Models\bin\Debug\Domain.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Models\bin\Debug\Domain.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Models\obj\Debug\Domain.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Models\obj\Debug\Domain.pdb
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Models\bin\Debug\Domain.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Models\bin\Debug\Domain.pdb
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Models\obj\Debug\Domain.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Models\obj\Debug\Domain.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Domain\bin\Debug\Domain.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Domain\bin\Debug\Domain.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Domain\obj\Debug\Domain.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Domain\obj\Debug\Domain.pdb

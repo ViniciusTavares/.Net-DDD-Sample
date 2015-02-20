@@ -23,3 +23,28 @@ C:\Projetos_Pessoais\Domain Driven Design Sample\UI\bin\Newtonsoft.Json.xml
 C:\Projetos_Pessoais\Domain Driven Design Sample\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
 C:\Projetos_Pessoais\Domain Driven Design Sample\UI\obj\Debug\UI.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\UI\obj\Debug\UI.pdb
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\UI\bin\UI.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\UI\bin\UI.pdb
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\UI\bin\Antlr3.Runtime.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\UI\bin\Newtonsoft.Json.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\UI\bin\System.Web.Helpers.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\UI\bin\System.Web.Mvc.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\UI\bin\System.Web.Optimization.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\UI\bin\System.Web.Razor.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\UI\bin\System.Web.WebPages.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\UI\bin\WebGrease.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\UI\bin\System.Web.Helpers.xml
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\UI\bin\System.Web.Mvc.xml
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\UI\bin\System.Web.Optimization.xml
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\UI\bin\System.Web.Razor.xml
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\UI\bin\System.Web.WebPages.xml
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\UI\bin\Antlr3.Runtime.pdb
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\UI\bin\Newtonsoft.Json.xml
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\UI\obj\Debug\UI.dll
+C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\UI\obj\Debug\UI.pdb

@@ -1,5 +1,4 @@
-﻿
-using Domain.Models;
+﻿using Domain.Models;
 using Domain.Services.Contracts;
 using Module1.Interfaces;
 using System;
@@ -41,5 +40,4 @@ namespace Module1.Contracts
             return Service.Update(people);
         }
     }
-
 }
