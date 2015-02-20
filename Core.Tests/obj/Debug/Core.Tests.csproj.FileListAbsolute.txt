@@ -20,3 +20,9 @@ C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Core.Tests\bin\Debug\Moq
 C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Core.Tests\obj\Debug\Core.Tests.csprojResolveAssemblyReference.cache
 C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Core.Tests\obj\Debug\Core.Tests.dll
 C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Core.Tests\obj\Debug\Core.Tests.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Core.Tests\bin\Debug\Domain.Services.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Core.Tests\bin\Debug\Infrastructure.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Core.Tests\bin\Debug\EntityFramework.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Core.Tests\bin\Debug\Domain.Services.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Core.Tests\bin\Debug\Infrastructure.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Core.Tests\bin\Debug\EntityFramework.xml

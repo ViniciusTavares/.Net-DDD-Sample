@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Web.Http.Dependencies;
 
-namespace Infrastructure
+namespace Infrastructure.CrossCutting
 {
     public class StructureMapScope : IDependencyScope
     {

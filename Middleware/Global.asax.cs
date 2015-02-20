@@ -1,5 +1,5 @@
 ﻿
-using Intrastructure.CrossCuting;
+using Infrastructure.CrossCutting;
 using StructureMap;
 using System;
 using System.Collections.Generic;

@@ -231,13 +231,17 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\..\Projetos_Pessoais\Domain Driven Design Sample\Infrastructure.CrossCutting\Intrastructure.CrossCuting.csproj">
-      <Project>{e4ebb195-1ece-4689-ba31-b0c05b27e530}</Project>
-      <Name>Intrastructure.CrossCuting %281 - Infrastructure\Intrastructure.CrossCuting\Intrastructure.CrossCuting%29</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Models\Domain.csproj">
+    <ProjectReference Include="..\Domain\Domain.csproj">
       <Project>{71c92238-8fcb-4686-a3a9-13a87f9d5d25}</Project>
       <Name>Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Infrastructure.CrossCutting\Infrastructure.CrossCutting.csproj">
+      <Project>{e4ebb195-1ece-4689-ba31-b0c05b27e530}</Project>
+      <Name>Infrastructure.CrossCutting</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Infrastructure.EF.Data\Infrastructure.Data.csproj">
+      <Project>{5a4fbc15-a691-4a21-b6a8-d5bd0f3338fb}</Project>
+      <Name>Infrastructure.Data</Name>
     </ProjectReference>
     <ProjectReference Include="..\Module1\Module1.csproj">
       <Project>{05f8dce5-bcf3-4288-82bb-46d71c327329}</Project>
