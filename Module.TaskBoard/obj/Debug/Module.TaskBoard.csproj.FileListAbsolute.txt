@@ -11,3 +11,16 @@ C:\Projetos_Pessoais\Domain Driven Design Sample\Module1\bin\Debug\EntityFramewo
 C:\Projetos_Pessoais\Domain Driven Design Sample\Module1\obj\Debug\Module.TaskBoard.csprojResolveAssemblyReference.cache
 C:\Projetos_Pessoais\Domain Driven Design Sample\Module1\obj\Debug\Module.TaskBoard.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Module1\obj\Debug\Module.TaskBoard.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Module.TaskBoard\obj\Debug\Module.TaskBoard.csprojResolveAssemblyReference.cache
+C:\Projetos_Pessoais\Domain Driven Design Sample\Module.TaskBoard\obj\Debug\Module.TaskBoard.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Module.TaskBoard\obj\Debug\Module.TaskBoard.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Module.TaskBoard\bin\Debug\Module.TaskBoard.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Module.TaskBoard\bin\Debug\Module.TaskBoard.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Module.TaskBoard\bin\Debug\Domain.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Module.TaskBoard\bin\Debug\Domain.Services.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Module.TaskBoard\bin\Debug\Infrastructure.EF.Data.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Module.TaskBoard\bin\Debug\EntityFramework.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Module.TaskBoard\bin\Debug\Domain.Services.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Module.TaskBoard\bin\Debug\Domain.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Module.TaskBoard\bin\Debug\Infrastructure.EF.Data.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Module.TaskBoard\bin\Debug\EntityFramework.xml

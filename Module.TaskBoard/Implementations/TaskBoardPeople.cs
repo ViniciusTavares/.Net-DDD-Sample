@@ -5,35 +5,13 @@ using Module.TaskBoard.Contracts;
 
 namespace Module.TaskBoard.Implementations
 {
-    public class TaskBoardPeople : IPeopleTaskBoard
+    public class TaskBoardPeople : BaseTaskBoard<People>, IPeopleTaskBoard
     {  
         public IPeopleService Service;
 
-        public TaskBoardPeople(IPeopleService service)
+        public TaskBoardPeople(IPeopleService service) : base(service)
         {
             Service = service;
-        }
-
-        public People SelectById(long id)
-        {
-            return Service.Single(id); 
-        }
-
-        public void Delete(People people)
-        {
-            Service.Delete(people); 
-        }
-
-        public long Insert(Domain.Models.People people)
-        {
-            people.InsertDate = DateTime.Now;
-
-            return Service.Insert(people);
-        }
-
-        public int Update(Domain.Models.People people)
-        {
-            return Service.Update(people);
         }
     }
 }

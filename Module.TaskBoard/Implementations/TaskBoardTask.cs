@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using Domain.Models;
 using Domain.Services.Contracts;
 using Module.TaskBoard.Contracts;
@@ -6,35 +7,24 @@ using Module.TaskBoard.Contracts;
 namespace Module.TaskBoard.Implementations
 {
 
-    public class TaskBoardTask : ITaskTaskBoard
+    public class TaskBoardTask : BaseTaskBoard<Task>, ITaskTaskBoard
     {
         public ITaskService Service;
 
-        public TaskBoardTask(ITaskService service)
+        public TaskBoardTask(ITaskService service) : base(service)
         {
             Service = service;
         }
 
-        public Task SelectById(long id)
+        public List<Task> GetLastTasks()
         {
-            return Service.Single(id);
-        }
+            DateTime aWeekAgo = DateTime.Now.AddDays(-7);
 
-        public void Delete(Task task)
+            return Service.GetLastTasks(aWeekAgo);
+        }
+        public List<Task> GetTasksByMonth()
         {
-            Service.Delete(task);
-        }
-
-        public long Insert(Task task)
-        {
-            task.InsertDate = DateTime.Now;
-
-            return Service.Insert(task);
-        }
-
-        public int Update(Task task)
-        {
-            return Service.Update(task);
-        }
+            return Service.GetTasksByMonth();
+        } 
     }
 }

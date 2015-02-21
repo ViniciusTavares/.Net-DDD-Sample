@@ -1,11 +1,10 @@
 ﻿using System;
+using Domain.Models;
+
 namespace Module.TaskBoard.Contracts
 {
-    public interface IPeopleTaskBoard
+    public interface IPeopleTaskBoard : IBaseTaskBoard<People>
     {
-        void Delete(Domain.Models.People people);
-        long Insert(Domain.Models.People people);
-        Domain.Models.People SelectById(long id);
-        int Update(Domain.Models.People people);
+       
     }
 }

@@ -11,11 +11,11 @@ using Microsoft.Practices.ServiceLocation;
 using Infrastructure.EF.Data.Contracts;
 using Domain.Models;
 
-namespace Domain.Services
+namespace Domain.Services.Services
 {
     public class BaseDomainService<T> : IDisposable, IBaseDomainService<T> where T : BaseEntity, new()
     {
-        private readonly IUnitOfWork Uow;
+        public readonly IUnitOfWork Uow;
         internal DbSet<T> dbSet;
 
         public BaseDomainService(IUnitOfWork uow)

@@ -6,11 +6,12 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Middleware.Interfaces
+namespace Middleware.Contracts
 {
     public interface IPeopleController
     {
-        HttpResponseMessage People(long id);
-        HttpResponseMessage People(People people); 
+        HttpResponseMessage Get(long id);
+        HttpResponseMessage Post(People people);
+        HttpResponseMessage Put(People people); 
     }
 }

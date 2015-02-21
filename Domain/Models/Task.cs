@@ -26,5 +26,7 @@ namespace Domain.Models
         }
         #endregion
 
+
+        public object Name { get; set; }
     }
 }

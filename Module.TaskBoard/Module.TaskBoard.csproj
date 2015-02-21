@@ -41,6 +41,8 @@
   <ItemGroup>
     <Compile Include="Contracts\IPeopleTaskBoard.cs" />
     <Compile Include="Contracts\ITaskTaskBoard.cs" />
+    <Compile Include="Implementations\BaseTaskBoard.cs" />
+    <Compile Include="Contracts\IBaseTaskBoard.cs" />
     <Compile Include="Implementations\TaskBoardPeople.cs" />
     <Compile Include="Implementations\TaskBoardTask.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
