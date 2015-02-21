@@ -114,7 +114,6 @@ C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\obj\Debug\Middleware
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\Middleware.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\Middleware.pdb
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\Antlr3.Runtime.dll
-C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\ApplicationModule1.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\CrossCutting.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\Domain.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\EntityFramework.dll
@@ -139,7 +138,6 @@ C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\WebGrease.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\Domain.Services.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\Domain.pdb
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\CrossCutting.pdb
-C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\ApplicationModule1.pdb
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\EntityFramework.xml
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\EntityFramework.SqlServer.xml
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\Newtonsoft.Json.xml
@@ -161,3 +159,6 @@ C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\Antlr3.Runtime.p
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\Domain.Services.pdb
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\Infrastructure.EF.Data.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\Infrastructure.EF.Data.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\Middleware.dll.config
+C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\Module.TaskBoard.dll
+C:\Projetos_Pessoais\Domain Driven Design Sample\Middleware\bin\Module.TaskBoard.pdb

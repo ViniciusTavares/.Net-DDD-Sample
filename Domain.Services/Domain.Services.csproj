@@ -54,9 +54,11 @@
     <Compile Include="Contracts\IBaseDbDomain.cs" />
     <Compile Include="Contracts\IOrderByClause.cs" />
     <Compile Include="Contracts\IPeopleService.cs" />
+    <Compile Include="Contracts\ITaskService.cs" />
     <Compile Include="Services\BaseDomainService.cs" />
     <Compile Include="Services\PeopleService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\TaskService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -6,7 +6,7 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Infrastructure.EF.Data.Interfaces
+namespace Infrastructure.EF.Data.Contracts
 {
     public interface IUnitOfWork
     {

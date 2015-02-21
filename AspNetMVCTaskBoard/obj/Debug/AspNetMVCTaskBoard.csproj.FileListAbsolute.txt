@@ -14,12 +14,9 @@ C:\Projetos_Pessoais\Domain Driven Design Sample\AspNetMVCTaskBoard\bin\Microsof
 C:\Projetos_Pessoais\Domain Driven Design Sample\AspNetMVCTaskBoard\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\AspNetMVCTaskBoard\bin\Microsoft.Web.WebPages.OAuth.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\AspNetMVCTaskBoard\bin\Newtonsoft.Json.dll
-C:\Projetos_Pessoais\Domain Driven Design Sample\AspNetMVCTaskBoard\bin\System.Net.Http.Formatting.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\AspNetMVCTaskBoard\bin\System.Spatial.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\AspNetMVCTaskBoard\bin\System.Web.Helpers.dll
-C:\Projetos_Pessoais\Domain Driven Design Sample\AspNetMVCTaskBoard\bin\System.Web.Http.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\AspNetMVCTaskBoard\bin\System.Web.Http.OData.dll
-C:\Projetos_Pessoais\Domain Driven Design Sample\AspNetMVCTaskBoard\bin\System.Web.Http.WebHost.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\AspNetMVCTaskBoard\bin\System.Web.Mvc.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\AspNetMVCTaskBoard\bin\System.Web.Optimization.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\AspNetMVCTaskBoard\bin\System.Web.Razor.dll
@@ -33,10 +30,7 @@ C:\Projetos_Pessoais\Domain Driven Design Sample\AspNetMVCTaskBoard\bin\Org.Ment
 C:\Projetos_Pessoais\Domain Driven Design Sample\AspNetMVCTaskBoard\bin\Mono.Math.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\AspNetMVCTaskBoard\bin\EntityFramework.xml
 C:\Projetos_Pessoais\Domain Driven Design Sample\AspNetMVCTaskBoard\bin\Newtonsoft.Json.xml
-C:\Projetos_Pessoais\Domain Driven Design Sample\AspNetMVCTaskBoard\bin\System.Net.Http.Formatting.xml
 C:\Projetos_Pessoais\Domain Driven Design Sample\AspNetMVCTaskBoard\bin\System.Web.Helpers.xml
-C:\Projetos_Pessoais\Domain Driven Design Sample\AspNetMVCTaskBoard\bin\System.Web.Http.xml
-C:\Projetos_Pessoais\Domain Driven Design Sample\AspNetMVCTaskBoard\bin\System.Web.Http.WebHost.xml
 C:\Projetos_Pessoais\Domain Driven Design Sample\AspNetMVCTaskBoard\bin\System.Web.Mvc.xml
 C:\Projetos_Pessoais\Domain Driven Design Sample\AspNetMVCTaskBoard\bin\System.Web.Razor.xml
 C:\Projetos_Pessoais\Domain Driven Design Sample\AspNetMVCTaskBoard\bin\System.Web.WebPages.xml
@@ -87,3 +81,4 @@ C:\Projetos_Pessoais\Domain Driven Design Sample\AspNetMVCTaskBoard\bin\zh-Hant\
 C:\Projetos_Pessoais\Domain Driven Design Sample\AspNetMVCTaskBoard\obj\Debug\AspNetMVCTaskBoard.csprojResolveAssemblyReference.cache
 C:\Projetos_Pessoais\Domain Driven Design Sample\AspNetMVCTaskBoard\obj\Debug\AspNetMVCTaskBoard.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\AspNetMVCTaskBoard\obj\Debug\AspNetMVCTaskBoard.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\AspNetMVCTaskBoard\bin\AspNetMVCTaskBoard.dll.config

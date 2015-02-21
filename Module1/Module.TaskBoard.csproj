@@ -7,8 +7,8 @@
     <ProjectGuid>{05F8DCE5-BCF3-4288-82BB-46D71C327329}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ApplicationModule1</RootNamespace>
-    <AssemblyName>ApplicationModule1</AssemblyName>
+    <RootNamespace>Module.TaskBoard</RootNamespace>
+    <AssemblyName>Module.TaskBoard</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -39,8 +39,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Interfaces\IPeopleContract.cs" />
-    <Compile Include="Contracts\PeopleContract.cs" />
+    <Compile Include="Contracts\IPeopleTaskBoard.cs" />
+    <Compile Include="Contracts\ITaskTaskBoard.cs" />
+    <Compile Include="Implementations\TaskBoardPeople.cs" />
+    <Compile Include="Implementations\TaskBoardTask.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />

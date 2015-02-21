@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Web;
-using Infrastructure.EF.Data.Interfaces;
+using Infrastructure.EF.Data.Contracts;
 
 namespace Infrastructure.Config
 {

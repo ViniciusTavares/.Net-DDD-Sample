@@ -83,9 +83,9 @@
       <Project>{5a4fbc15-a691-4a21-b6a8-d5bd0f3338fb}</Project>
       <Name>Infrastructure.EF.Data</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Module1\Module1.csproj">
+    <ProjectReference Include="..\Module1\Module.TaskBoard.csproj">
       <Project>{05f8dce5-bcf3-4288-82bb-46d71c327329}</Project>
-      <Name>Module1</Name>
+      <Name>Module.TaskBoard</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

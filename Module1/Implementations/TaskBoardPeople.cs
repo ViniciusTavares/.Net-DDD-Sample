@@ -1,19 +1,15 @@
 ﻿using Domain.Models;
 using Domain.Services.Contracts;
-using Module1.Interfaces;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Module.TaskBoard.Contracts;
 
-namespace Module1.Contracts
+namespace Module.TaskBoard.Implementations
 {
-    public class PeopleContract : IPeopleContract
+    public class TaskBoardPeople : IPeopleTaskBoard
     {  
         public IPeopleService Service;
 
-        public PeopleContract(IPeopleService service)
+        public TaskBoardPeople(IPeopleService service)
         {
             Service = service;
         }

@@ -20,8 +20,7 @@ namespace Infrastructure.EF.Data.Migrations
                 Name = "Vinicius Rafael Tavares",
                 Age = 21,
                 InsertDate = DateTime.Now,
-                UpdateDate = DateTime.Now,
-                Type = Domain.Enums.PeopleType.NaturalPerson
+                UpdateDate = DateTime.Now
             });
 
         }

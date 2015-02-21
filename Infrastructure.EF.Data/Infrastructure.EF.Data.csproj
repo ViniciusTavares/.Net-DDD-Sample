@@ -53,11 +53,12 @@
   <ItemGroup>
     <Compile Include="Config\ApplicationDbContext.cs" />
     <Compile Include="Config\ContextInitialize.cs" />
-    <Compile Include="Mapping\PeopleConfig.cs" />
+    <Compile Include="Mapping\PeopleMapping.cs" />
     <Compile Include="Config\HttpManager.cs" />
     <Compile Include="Config\UnitOfWork.cs" />
     <Compile Include="Contracts\IHttpManager.cs" />
     <Compile Include="Contracts\IUnitOfWork.cs" />
+    <Compile Include="Mapping\TaskMapping.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

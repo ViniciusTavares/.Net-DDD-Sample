@@ -15,9 +15,9 @@ namespace Core.Tests
         [TestMethod]
         public void EnumDescriptionTest()
         {
-            string Description = PeopleType.LegalPerson.Description();
+            string description = TaskComplexity.Hard.Description();
 
-            Assert.IsTrue(Description == "LegalPerson");
+            Assert.IsTrue(description.ToUpper() == "HARDCORE");
         }
     }
 }

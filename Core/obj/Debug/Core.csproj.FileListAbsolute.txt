@@ -6,3 +6,4 @@ C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Core\bin\Debug\Core.dll
 C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Core\bin\Debug\Core.pdb
 C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Core\obj\Debug\Core.dll
 C:\Users\vinicius.tavares\Desktop\Teste\.Net-DDD-Sample\Core\obj\Debug\Core.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache

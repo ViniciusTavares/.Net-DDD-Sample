@@ -8,7 +8,7 @@ using System.Data.Entity;
 using System.Data.Entity.Infrastructure;
 using Domain.Services.Contracts;
 using Microsoft.Practices.ServiceLocation;
-using Infrastructure.EF.Data.Interfaces;
+using Infrastructure.EF.Data.Contracts;
 using Domain.Models;
 
 namespace Domain.Services

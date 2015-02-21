@@ -1,5 +1,5 @@
 ﻿using Infrastructure.Config;
-using Infrastructure.EF.Data.Interfaces;
+using Infrastructure.EF.Data.Contracts;
 using Microsoft.Practices.ServiceLocation;
 using System;
 using System.Collections.Generic;

@@ -10,3 +10,4 @@ C:\Projetos_Pessoais\Domain Driven Design Sample\Domain\bin\Debug\Domain.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain\bin\Debug\Domain.pdb
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain\obj\Debug\Domain.dll
 C:\Projetos_Pessoais\Domain Driven Design Sample\Domain\obj\Debug\Domain.pdb
+C:\Projetos_Pessoais\Domain Driven Design Sample\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache

@@ -18,8 +18,7 @@ namespace Infrastructure.Config
                Name = "Vinicius Rafael Tavares",
                Age = 21,
                InsertDate = DateTime.Now, 
-               UpdateDate = DateTime.Now,
-               Type = Domain.Enums.PeopleType.LegalPerson
+               UpdateDate = DateTime.Now
             });
 
             base.Seed(context);

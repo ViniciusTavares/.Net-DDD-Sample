@@ -1,5 +1,5 @@
 ﻿using Domain.Models;
-using Infrastructure.EF.Data.Interfaces;
+using Infrastructure.EF.Data.Contracts;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,7 +14,7 @@ namespace Domain.Services.Contracts
         int Delete(T entity);
         void Dispose();
         bool Exists(object primaryKey);
-        System.Collections.Generic.IEnumerable<T> GetAll();
+        IEnumerable<T> GetAll();
         long Insert(T entity);
         T Single(object primaryKey);
         T SingleOrDefault(object primaryKey);

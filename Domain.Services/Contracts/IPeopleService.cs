@@ -10,5 +10,6 @@ namespace Domain.Services.Contracts
 {
     public interface IPeopleService : IBaseDomainService<People>
     {
+
     }
 }

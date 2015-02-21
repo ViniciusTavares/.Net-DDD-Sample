@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Infrastructure.EF.Data.Mapping
 {
-    public class PeopleConfig : EntityTypeConfiguration<People>
+    public class PeopleMapping : EntityTypeConfiguration<People>
     {
 
     }

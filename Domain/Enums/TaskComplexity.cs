@@ -7,11 +7,13 @@ using System.Threading.Tasks;
 
 namespace Domain.Enums
 {
-    public enum PeopleType
+    public enum TaskComplexity
     {
-        [Description("Legal Person")]
-        LegalPerson = 1,
-        [Description("Natural Person")]
-        NaturalPerson = 2
+        [Description("Easy")]
+        Easy = 1,
+        [Description("Normal")]
+        Normal = 2,
+        [Description("Hardcore")]
+        Hard = 3
     }
 }

@@ -39,9 +39,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Enums\PeopleType.cs" />
+    <Compile Include="Enums\TaskComplexity.cs" />
     <Compile Include="Models\BaseEntity.cs" />
     <Compile Include="Models\People.cs" />
+    <Compile Include="Models\Task.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

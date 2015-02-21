@@ -1,7 +1,7 @@
 ﻿using System;
-namespace Module1.Interfaces
+namespace Module.TaskBoard.Contracts
 {
-    public interface IPeopleContract
+    public interface IPeopleTaskBoard
     {
         void Delete(Domain.Models.People people);
         long Insert(Domain.Models.People people);

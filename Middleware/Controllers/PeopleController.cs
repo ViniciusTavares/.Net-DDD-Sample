@@ -7,15 +7,15 @@ using System.Web.Http;
 using Domain;
 using Domain.Models;
 using Middleware.Interfaces;
-using Module1.Interfaces;
+using Module.TaskBoard.Contracts;
 
 namespace Middleware.Controllers
 {
     public class PeopleController : ApiController, IPeopleController
     {
-        public IPeopleContract Contract;
+        public IPeopleTaskBoard Contract;
 
-        public PeopleController(IPeopleContract contract)
+        public PeopleController(IPeopleTaskBoard contract)
         {
             Contract = contract;
         }
