@@ -39,6 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Enums\Status.cs" />
     <Compile Include="Enums\TaskComplexity.cs" />
     <Compile Include="Models\BaseEntity.cs" />
     <Compile Include="Models\People.cs" />

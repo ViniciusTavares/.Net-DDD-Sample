@@ -14,6 +14,5 @@ namespace AspNetMVCTaskBoard.ViewModels
         }
 
         public ICollection<Task> Tasks { get; set; }
-       
     }
 }

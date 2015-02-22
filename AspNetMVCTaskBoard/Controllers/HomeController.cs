@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using AspNetMVCTaskBoard.ViewModels;
 
 namespace AspNetMVCTaskBoard.Controllers
 {
@@ -10,7 +11,9 @@ namespace AspNetMVCTaskBoard.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            var model = new TaskBoardViewModel();
+
+            return View(model);
         }
 
         public ActionResult About()
@@ -25,6 +28,11 @@ namespace AspNetMVCTaskBoard.Controllers
             ViewBag.Message = "Your contact page.";
 
             return View();
+        }
+
+        public ActionResult TaskModal()
+        {
+            return PartialView("TaskModal");
         }
     }
 }

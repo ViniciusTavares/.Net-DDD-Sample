@@ -1,5 +1,25 @@
-﻿$(document).ready(function() {
-    
+﻿$(document).ready(function () {
+
+    $("#taskD").click(function () {
+
+        //$("#myModal").modal('show'); 
+
+        var url = $('#Modalpopup').data('url');
+
+        $.get(url, function (data) {
+            $('#popupcontainer').html(data);
+
+            $('#Modalpopup').modal({
+                backdrop: true,
+                keyboard: false,
+                show: true
+            });
+        });
+    });
+
+
+
+
     function contextualizePage() {
         $.get("ajax/test.html", function (data) {
             $(".result").html(data);
@@ -20,6 +40,7 @@
         //    success: success,
         //    dataType: dataType
         //});
+
     }
 
 });

@@ -18,6 +18,7 @@ namespace Domain.Models
         public DateTime Day { get; set; }
         public ICollection<People> Peoples { get; set; }
         public TaskComplexity Complexity { get; set; }
+        public TaskStatus Status { get; set; }
 
         #region Methods
         public int CountUsers()
